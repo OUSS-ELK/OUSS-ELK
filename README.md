@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm oussama</h1>
+<h1 align="center">👋 Hey there!     I'm Oussama ELKHARRAF</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=13B6F7FF&vCenter=false&multiline=false&width=900&lines=%F0%9F%92%BB+Full-Stack+Developer+%7C+%F0%9F%94%90+Web+Security+Enthusiast+%7C+%F0%9F%8C%8D+Lifelong+Learner"/></a>
@@ -27,18 +27,7 @@ to become a stronger and more versatile engineer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-plain.svg" alt="Bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-plain.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" alt="Fastify" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nestjs/nestjs-original.svg" alt="Nestjs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
@@ -48,8 +37,8 @@ to become a stronger and more versatile engineer.
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pipors&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipors&layout=compact&theme=tokyonight&langs_count=6" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OUSS-ELK&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OUSS-ELKs&layout=compact&theme=tokyonight&langs_count=6" height="150"/>
 
 </p>
 
