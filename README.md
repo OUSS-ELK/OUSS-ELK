@@ -46,10 +46,10 @@ to become a stronger and more versatile engineer.
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/anas-a-66945b17a/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/oussama-elkharraf//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:anasatbir4@gmail.com">
+  <a href="elkharrafoussama@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
