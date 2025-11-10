@@ -38,7 +38,7 @@ to become a stronger and more versatile engineer.
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OUSS-ELK&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OUSS-ELKs&layout=compact&theme=tokyonight&langs_count=6" height="150"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OUSS-ELK&layout=compact&theme=tokyonight&langs_count=6" height="150"/>
 
 </p>
 
